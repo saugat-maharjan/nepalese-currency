@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Lexend+Deca&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap');
+
+
+body {
+    margin: 0;
+}
+
+/* index.html */
+.topnav{
+    background-color:#3F51B5;
+    overflow: hidden;
+    height: 50px;
+    font-family: 'Lexend Deca', sans-serif;
+
+}
+.topnav a{
+    color: white;
+    font-size: 20px;
+    margin: 10px 15px;
+    display: inline-block;
+}
+
+/* tribhuwan-1.html */
+.name{
+    margin-left: 400px;
+    font-size: 15px
+}
+.oneRupee-tribhuwan{
+    margin-left: 110px;
+    float: left;
+
+}
+.narendra-1{
+    width: 600px;
+    margin-left: 500px;
+    font-size: 20px
+}
+.money-information{
+    width: 600px;
+    margin-left: 140px;
+    float: left;
+    font-size: 15px
+}
+.text{
+    width: 600px;
+    margin-left: 70px;
+    float: left;
+    font-size: 15px
+}
+
+/* papermoney.html*/
+.listOfKings h1{
+    font-family: 'Roboto Slab', serif;
+}
+
