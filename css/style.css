@@ -12,7 +12,6 @@ body {
     overflow: hidden;
     height: 50px;
     font-family: 'Lexend Deca', sans-serif;
-
 }
 .topnav a{
     color: white;
@@ -20,27 +19,51 @@ body {
     margin: 10px 15px;
     display: inline-block;
 }
+.pic {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 50%;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:#3F51B5;
+    overflow: hidden;
+    height: 50px;
+    font-family: 'Lexend Deca', sans-serif;    
+}
+.footer a{
+    color: white;
+    font-size: 20px;
+    margin: 10px 15px;
+    display: inline-block;
+}
 
-/* tribhuwan-1.html */
+/* papermoney.html*/
+.listOfKings h1{
+    font-family: 'Roboto Slab', serif;
+}
+
+/* kingTribhuwan.html */
 .name{
     margin-left: 400px;
-    font-size: 15px
+    font-size: 15px;
+    font-family: 'Roboto Slab', serif;
 }
-.oneRupee-tribhuwan{
-    margin-left: 110px;
-    float: left;
+.list h1{
+    font-family: 'Roboto Slab', serif;
+}
+.governor h1{
+    font-family: 'Roboto Slab', serif;
+}
 
-}
-.narendra-1{
-    width: 600px;
-    margin-left: 500px;
-    font-size: 20px
-}
-.money-information{
-    width: 600px;
-    margin-left: 140px;
+/*tribhuwan-1.html*/
+.oneRupee-tribhuwan{
+    margin-left: 200px;
     float: left;
-    font-size: 15px
 }
 .text{
     width: 600px;
@@ -49,8 +72,1189 @@ body {
     font-size: 15px
 }
 
-/* papermoney.html*/
-.listOfKings h1{
+/*tribhuwan-5.html*/
+.fiveRupee-tribhuwan{
+    font-family: 'Roboto Slab', serif;  
+    margin-left: 330px
+}
+.janak-5{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.janak-5 p{
+    text-align: center;
+}
+.bharat-5{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.bharat-5 p{
+    text-align: center;
+}
+.narendra-5{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.narendra-5 p{
+    text-align: center;
+}
+.narendra-5 img{
+    margin-right: 24px;
+}
+.tribhuwan5rs{
+    margin-left: 150px;
+    float: left;
+}
+.text5{
+    width: 600px;
+    margin-left: 20px;
+    float: left;
+    font-size: 15px  
+}
+
+/*tribhuwan-10.html*/
+.tenRupee-tribhuwan{
+    font-family: 'Roboto Slab', serif;  
+    margin-left: 330px
+}
+.janak-10{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.janak-10 p{
+    text-align: center;
+}
+.bharat-10{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.bharat-10 p{
+    text-align: center;
+}
+.narendra-10{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.narendra-10 p{
+    text-align: center;
+}
+.narendra-10 img{
+    margin-right: 24px;
+}
+.tribhuwan10rs{
+    margin-left: 150px;
+    float: left;
+}
+.text10{
+    width: 600px;
+    margin-left: 20px;
+    float: left;
+    font-size: 15px  
+}
+
+/*tribhuwan-100.html*/
+.hundredRupee-tribhuwan{
+    font-family: 'Roboto Slab', serif;  
+    margin-left: 330px
+}
+.janak-100{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.janak-100 p{
+    text-align: center;
+}
+.bharat-100{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.bharat-100 p{
+    text-align: center;
+}
+.narendra-100{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.narendra-100 p{
+    text-align: center;
+}
+.narendra-100 img{
+    margin-right: 24px;
+}
+.tribhuwan100rs{
+    margin-left: 150px;
+    float: left;
+}
+.text100{
+    width: 600px;
+    margin-left: 20px;
+    float: left;
+    font-size: 15px  
+}
+
+/*kingMahendra.html*/
+.name{
+    margin-left: 400px;
+    font-size: 15px;
     font-family: 'Roboto Slab', serif;
 }
+.list h1{
+    font-family: 'Roboto Slab', serif;
+}
+.governor h1{
+    font-family: 'Roboto Slab', serif;
+}
+
+/*mahendra-1.html*/
+.oneRupee-mahendra{
+    font-family: 'Roboto Slab', serif;  
+    margin-left: 330px
+}
+.himalayan-1{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.himalayan-1 p{
+    text-align: center;
+}
+
+.yadav-1{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.yadav-1 p{
+    text-align: center;
+}
+.yadavcap-1{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.yadavcap-1 p{
+    text-align: center;
+}
+.mahendra1rs{
+    margin-left: 150px;
+    float: left;
+}
+.info1{
+    width: 600px;
+    margin-left: 20px;
+    float: left;
+    font-size: 15px  
+}
+
+/*mahendra-5.html*/
+.fiveRupee-mahendra{
+    font-family: 'Roboto Slab', serif;  
+    margin-left: 330px
+}
+.himalayan-5{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.himalayan-5 p{
+    text-align: center;
+}
+.laxminath-5{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.laxminath-5 p{
+    text-align: center;
+}
+.bhekh-5{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.bhekh-5 p{
+    text-align: center;
+}
+.yadav-5{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.yadav-5 p{
+    text-align: center;
+}
+.yadavcap-5{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.yadavcap-5 p{
+    text-align: center;
+}
+.mahendra5rs{
+    margin-left: 150px;
+    float: left;
+}
+.info5{
+    width: 600px;
+    margin-left: 20px;
+    float: left;
+    font-size: 15px  
+}
+
+/*mahendra-10*/
+.tenRupee-mahendra{
+    font-family: 'Roboto Slab', serif;  
+    margin-left: 330px
+}
+.himalayan-10{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.himalayan-10 p{
+    text-align: center;
+}
+.laxminath-10{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.laxminath-10 p{
+    text-align: center;
+}
+.laxminath-10rs{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.laxminath-10rs p{
+    text-align: center;
+}
+.pradyumna-10{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.pradyumna-10 p{
+    text-align: center;
+}
+.bhekh-10{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.bhekh-10 p{
+    text-align: center;
+}
+.yadav-10{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.yadav-10 p{
+    text-align: center;
+}
+.yadavcap-10{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.yadavcap-10 p{
+    text-align: center;
+}
+.mahendra10rs{
+    margin-left: 150px;
+    float: left;
+}
+.info10{
+    width: 600px;
+    margin-left: 20px;
+    float: left;
+    font-size: 15px  
+}
+
+/*mahendra-100.html*/
+.hundredRupee-mahendra{
+    font-family: 'Roboto Slab', serif;  
+    margin-left: 330px
+}
+.himalayan-100{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.himalayan-100 p{
+    text-align: center;
+}
+.laxminath-100{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.laxminath-100 p{
+    text-align: center;
+}
+.pradyumna-100{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.pradyumna-100 p{
+    text-align: center;
+}
+.bhekh-100{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.bhekh-100 p{
+    text-align: center;
+}
+.yadav-100{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.yadav-100 p{
+    text-align: center;
+}
+.yadavcap-100{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.yadavcap-100 p{
+    text-align: center;
+}
+.mahendra100rs{
+    margin-left: 150px;
+    float: left;
+}
+.info100{
+    width: 600px;
+    margin-left: 20px;
+    float: left;
+    font-size: 15px  
+}
+
+/*mahendra-500.html*/
+.fivehundredRupee-mahendra{
+    font-family: 'Roboto Slab', serif;  
+    margin-left: 330px
+}
+.yadav-500{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.yadav-500 p{
+    text-align: center;
+}
+.mahendra500rs{
+    margin-left: 150px;
+    float: left;
+}
+.info500{
+    width: 600px;
+    margin-left: 20px;
+    float: left;
+    font-size: 15px  
+}
+
+/*mahendra-1000.html*/
+.thousandRupee-mahendra{
+    font-family: 'Roboto Slab', serif;  
+    margin-left: 330px
+}
+.yadav-1000{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.yadav-1000 p{
+    text-align: center;
+}
+.mahendra1000rs{
+    margin-left: 150px;
+    float: left;
+}
+.info1000{
+    width: 600px;
+    margin-left: 20px;
+    float: left;
+    font-size: 15px  
+}
+
+/*kingBirendra.html*/
+.name{
+    margin-left: 400px;
+    font-size: 15px;
+    font-family: 'Roboto Slab', serif;
+}
+.list h1{
+    font-family: 'Roboto Slab', serif;
+}
+.governor h1{
+    font-family: 'Roboto Slab', serif;
+}
+
+/*birendra-1.html*/
+.oneRupee-birendra{
+    font-family: 'Roboto Slab', serif;  
+    margin-left: 330px
+}
+.kul-1{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.kul-1 p{
+    text-align: center;
+}
+.kalyan-1{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.kalyan-1 p{
+    text-align: center;
+}
+.ganesh-1{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.ganesh-1 p{
+    text-align: center;
+}
+.harishankhar-1{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.harishankhar-1 p{
+    text-align: center;
+}
+.hari-1{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.hari-1 p{
+    text-align: center;
+}
+.satendra-1{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.satendra-1 p{
+    text-align: center;
+}
+.birendra1rs{
+    margin-left: 150px;
+    float: left;
+}
+.line1{
+    width: 600px;
+    margin-left: 20px;
+    float: left;
+    font-size: 15px  
+}
+
+/*birendra-2.html*/
+.twoRupee-birendra{
+    font-family: 'Roboto Slab', serif;  
+    margin-left: 330px
+}
+.kalyan-2{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.kalyan-2 p{
+    text-align: center;
+}
+.ganesh-2{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.ganesh-2 p{
+    text-align: center;
+}
+.hari-2{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.hari-2 p{
+    text-align: center;
+}
+.satendra-2{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.satendra-2 p{
+    text-align: center;
+}
+.deependra-2{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.deependra-2 p{
+    text-align: center;
+}
+.birendra2rs{
+    margin-left: 150px;
+    float: left;
+}
+.line2{
+    width: 600px;
+    margin-left: 20px;
+    float: left;
+    font-size: 15px  
+}
+
+/*birendra-5.html*/
+.fiveRupee-birendra{
+    font-family: 'Roboto Slab', serif;  
+    margin-left: 330px
+}
+.kul-5{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.kul-5 p{
+    text-align: center;
+}
+.kalyan-5{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.kalyan-5 p{
+    text-align: center;
+}
+.ganeshb-5{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.ganeshb-5 p{
+    text-align: center;
+}
+.ganesh-5{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.ganesh-5 p{
+    text-align: center;
+}
+.hari-5{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.hari-5 p{
+    text-align: center;
+}
+.satendra-5{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.satendra-5 p{
+    text-align: center;
+}
+.deependra-5{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.deependra-5 p{
+    text-align: center;
+}
+.birendra5rs{
+    margin-left: 150px;
+    float: left;
+}
+.line5{
+    width: 600px;
+    margin-left: 20px;
+    float: left;
+    font-size: 15px  
+}
+
+/*birendra-10.html*/
+.tenRupee-birendra{
+    font-family: 'Roboto Slab', serif;  
+    margin-left: 330px
+}
+.kul-10{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.kul-10 p{
+    text-align: center;
+}
+.kalyan-10{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.kalyan-10 p{
+    text-align: center;
+}
+.ganeshb-10{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.ganeshb-10 p{
+    text-align: center;
+}
+.ganesh-10{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.ganesh-10 p{
+    text-align: center;
+}
+.hari-10{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.hari-10 p{
+    text-align: center;
+}
+.satendra-10{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.satendra-10 p{
+    text-align: center;
+}
+.deependra-10{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.deependra-10 p{
+    text-align: center;
+}
+.birendra10rs{
+    margin-left: 150px;
+    float: left;
+}
+.line10{
+    width: 600px;
+    margin-left: 20px;
+    float: left;
+    font-size: 15px  
+}
+
+/*birendra-20.html*/
+.twentyRupee-birendra{
+    font-family: 'Roboto Slab', serif;  
+    margin-left: 330px
+}
+.kalyan-20{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.kalyan-20 p{
+    text-align: center;
+}
+.ganesh-20{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.ganesh-20 p{
+    text-align: center;
+}
+.ganeshw-20{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.ganeshw-20 p{
+    text-align: center;
+}
+.hari-20{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.hari-20 p{
+    text-align: center;
+}
+.satendra-20{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.satendra-20 p{
+    text-align: center;
+}
+.deependra-20{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.deependra-20 p{
+    text-align: center;
+}
+.birendra20rs{
+    margin-left: 150px;
+    float: left;
+}
+.line20{
+    width: 600px;
+    margin-left: 20px;
+    float: left;
+    font-size: 15px  
+}
+
+/*birendra-25.html*/
+.twentyfiveRupee-birendra{
+    font-family: 'Roboto Slab', serif;  
+    margin-left: 330px
+}
+.satendra-25{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.satendra-25 p{
+    text-align: center;
+}
+.birendra25rs{
+    margin-left: 150px;
+    float: left;
+}
+.line25{
+    width: 600px;
+    margin-left: 20px;
+    float: left;
+    font-size: 15px  
+}
+
+/*birendra-50.html*/
+.fiftyRupee-birendra{
+    font-family: 'Roboto Slab', serif;  
+    margin-left: 330px
+}
+.kul-50{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.kul-50 p{
+    text-align: center;
+}
+.kalyan-50{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.kalyan-50 p{
+    text-align: center;
+}
+.ganesh-50{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.ganesh-50 p{
+    text-align: center;
+}
+.hari-50{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.hari-50 p{
+    text-align: center;
+}
+.satendra-50{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.satendra-50 p{
+    text-align: center;
+}
+.deependra-50{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.deependra-50 p{
+    text-align: center;
+}
+.birendra50rs{
+    margin-left: 150px;
+    float: left;
+}
+.line50{
+    width: 600px;
+    margin-left: 20px;
+    float: left;
+    font-size: 15px  
+}
+
+/*birendra-100.html*/
+.hundredRupee-birendra{
+    font-family: 'Roboto Slab', serif;  
+    margin-left: 330px
+}
+.kul-100{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.kul-100 p{
+    text-align: center;
+}
+.kalyan-100{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.kalyan-100 p{
+    text-align: center;
+}
+.ganesh-100{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.ganesh-100 p{
+    text-align: center;
+}
+.hari-100{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.hari-100 p{
+    text-align: center;
+}
+.satendra-100{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.satendra-100 p{
+    text-align: center;
+}
+.deependra-100{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.deependra-100 p{
+    text-align: center;
+}
+.birendra100rs{
+    margin-left: 150px;
+    float: left;
+}
+.line100{
+    width: 600px;
+    margin-left: 20px;
+    float: left;
+    font-size: 15px  
+}
+
+/*birendra-250.html*/
+.twohundredfiftyRupee-birendra{
+    font-family: 'Roboto Slab', serif;  
+    margin-left: 330px
+}
+.satendra-250{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.satendra-250 p{
+    text-align: center;
+}
+.birendra250rs{
+    margin-left: 150px;
+    float: left;
+}
+.line250{
+    width: 600px;
+    margin-left: 20px;
+    float: left;
+    font-size: 15px  
+}
+
+
+/*kingGyanendra.html*/
+.name{
+    margin-left: 400px;
+    font-size: 15px;
+    font-family: 'Roboto Slab', serif;
+}
+.list h1{
+    font-family: 'Roboto Slab', serif;
+}
+.governor h1{
+    font-family: 'Roboto Slab', serif;
+}
+
+/*gyanendra-5.html*/
+.fiveRupee-gyanendra{
+    font-family: 'Roboto Slab', serif;  
+    margin-left: 330px
+}
+.tilak-5{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.tilak-5 p{
+    text-align: center;
+}
+.tilaak-5{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.tilaak-5 p{
+    text-align: center;
+}
+.bijaya-5{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.bijaya-5 p{
+    text-align: center;
+}
+.gyanendra5rs{
+    margin-left: 150px;
+    float: left;
+}
+.about5{
+    width: 600px;
+    margin-left: 20px;
+    float: left;
+    font-size: 15px  
+}
+
+/*gyanendra-10.html*/
+.tenRupee-gyanendra{
+    font-family: 'Roboto Slab', serif;  
+    margin-left: 330px
+}
+.tilak-10{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.tilak-10 p{
+    text-align: center;
+}
+.bijaya-10{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.bijaya-10 p{
+    text-align: center;
+}
+.gyanendra10rs{
+    margin-left: 150px;
+    float: left;
+}
+.about10{
+    width: 600px;
+    margin-left: 20px;
+    float: left;
+    font-size: 15px  
+}
+
+/*gyanendra-20.html*/
+.twentyRupee-gyanendra{
+    font-family: 'Roboto Slab', serif;  
+    margin-left: 330px
+}
+.tilak-20{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.tilak-20 p{
+    text-align: center;
+}
+.bijaya-20{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.bijaya-20 p{
+    text-align: center;
+}
+.gyanendra20rs{
+    margin-left: 150px;
+    float: left;
+}
+.about20{
+    width: 600px;
+    margin-left: 20px;
+    float: left;
+    font-size: 15px  
+}
+
+/*gyanendra-50.html*/
+.fiftyRupee-gyanendra{
+    font-family: 'Roboto Slab', serif;  
+    margin-left: 330px
+}
+.tilak-50{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.tilak-50 p{
+    text-align: center;
+}
+.tilaak-50{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.tilaak-50 p{
+    text-align: center;
+}
+.bijaya-50{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.bijaya-50 p{
+    text-align: center;
+}
+.gyanendra50rs{
+    margin-left: 150px;
+    float: left;
+}
+.about50{
+    width: 600px;
+    margin-left: 20px;
+    float: left;
+    font-size: 15px  
+}
+
+/*gyanendra-100.html*/
+.hundredRupee-gyanendra{
+    font-family: 'Roboto Slab', serif;  
+    margin-left: 330px
+}
+.tilak-100{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.tilak-100 p{
+    text-align: center;
+}
+.bijaya-100{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.bijaya-100 p{
+    text-align: center;
+}
+.gyanendra100rs{
+    margin-left: 150px;
+    float: left;
+}
+.about100{
+    width: 600px;
+    margin-left: 20px;
+    float: left;
+    font-size: 15px  
+}
+
+/*gyanendra-500.html*/
+.fivehundredRupee-gyanendra{
+    font-family: 'Roboto Slab', serif;  
+    margin-left: 330px
+}
+.tilak-500{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.tilak-500 p{
+    text-align: center;
+}
+.gyanendra500rs{
+    margin-left: 150px;
+    float: left;
+}
+.about500{
+    width: 600px;
+    margin-left: 20px;
+    float: left;
+    font-size: 15px  
+}
+
+/*gyanendra-1000.html*/
+.thousandRupee-gyanendra{
+    font-family: 'Roboto Slab', serif;  
+    margin-left: 330px
+}
+.tilak-1000{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.tilak-1000 p{
+    text-align: center;
+}
+.gyanendra1000rs{
+    margin-left: 150px;
+    float: left;
+}
+.about1000{
+    width: 600px;
+    margin-left: 20px;
+    float: left;
+    font-size: 15px  
+}
+
+
+
+
+
+
+
+
 
