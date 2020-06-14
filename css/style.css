@@ -201,6 +201,40 @@ body {
     font-size: 15px  
 }
 
+/*khajanchee-1.html*/
+.khajanchee-one{
+    margin-left: 200px;
+    float: left;
+}
+.aboutJanak{
+    width: 600px;
+    margin-left: 70px;
+    float: left;
+    font-size: 15px
+}
+/*khajanchee-2.html*/
+.khajanchee-two{
+    margin-left: 200px;
+    float: left;
+}
+.aboutBharat{
+    width: 600px;
+    margin-left: 70px;
+    float: left;
+    font-size: 15px
+}
+/*khajanchee-3.html*/
+.khajanchee-three{
+    margin-left: 200px;
+    float: left;
+}
+.aboutNarendra{
+    width: 600px;
+    margin-left: 70px;
+    float: left;
+    font-size: 15px
+}
+
 /*kingMahendra.html*/
 .name{
     margin-left: 400px;
@@ -493,6 +527,62 @@ body {
     margin-left: 20px;
     float: left;
     font-size: 15px  
+}
+
+/*governor-1.html*/
+.governor-one{
+    margin-left: 200px;
+    float: left;
+}
+.aboutHimalaya{
+    width: 600px;
+    margin-left: 70px;
+    float: left;
+    font-size: 15px
+}
+/*governor-2.html*/
+.governor-two{
+    margin-left: 200px;
+    float: left;
+}
+.aboutLaxminath{
+    width: 600px;
+    margin-left: 70px;
+    float: left;
+    font-size: 15px
+}
+/*governor-3.html*/
+.governor-three{
+    margin-left: 200px;
+    float: left;
+}
+.aboutPradyumna{
+    width: 600px;
+    margin-left: 70px;
+    float: left;
+    font-size: 15px
+}
+/*governor-4.html*/
+.governor-four{
+    margin-left: 200px;
+    float: left;
+}
+.aboutBhekh{
+    width: 600px;
+    margin-left: 70px;
+    float: left;
+    font-size: 15px
+}
+/*governor-5.html*/
+.governor-five{
+    margin-left: 200px;
+    float: left;
+}
+.aboutYadav{
+    width: 600px;
+    margin-left: 70px;
+    float: left;
+    font-size: 15px
 }
 
 /*kingBirendra.html*/
@@ -1012,6 +1102,72 @@ body {
     font-size: 15px  
 }
 
+/*governor-6.html*/
+.governor-six{
+    margin-left: 200px;
+    float: left;
+}
+.aboutKul{
+    width: 600px;
+    margin-left: 70px;
+    float: left;
+    font-size: 15px
+}
+/*governor-7.html*/
+.governor-seven{
+    margin-left: 200px;
+    float: left;
+}
+.aboutKalyan{
+    width: 600px;
+    margin-left: 70px;
+    float: left;
+    font-size: 15px
+}
+/*governor-8.html*/
+.governor-eight{
+    margin-left: 200px;
+    float: left;
+}
+.aboutGanesh{
+    width: 600px;
+    margin-left: 70px;
+    float: left;
+    font-size: 15px
+}
+/*governor-9.html*/
+.governor-nine{
+    margin-left: 200px;
+    float: left;
+}
+.aboutHari{
+    width: 600px;
+    margin-left: 70px;
+    float: left;
+    font-size: 15px
+}
+/*governor-10.html*/
+.governor-ten{
+    margin-left: 200px;
+    float: left;
+}
+.aboutSatendra{
+    width: 600px;
+    margin-left: 70px;
+    float: left;
+    font-size: 15px
+}
+/*governor-11.html*/
+.governor-eleven{
+    margin-left: 200px;
+    float: left;
+}
+.aboutDeependra{
+    width: 600px;
+    margin-left: 70px;
+    float: left;
+    font-size: 15px
+}
 
 /*kingGyanendra.html*/
 .name{
@@ -1248,6 +1404,269 @@ body {
     margin-left: 20px;
     float: left;
     font-size: 15px  
+}
+
+/*governor-12.html*/
+.governor-twelve{
+    margin-left: 200px;
+    float: left;
+}
+.aboutTilak{
+    width: 600px;
+    margin-left: 70px;
+    float: left;
+    font-size: 15px
+}
+/*governor-13.html*/
+.governor-thirteen{
+    margin-left: 200px;
+    float: left;
+}
+.aboutBijayanath{
+    width: 600px;
+    margin-left: 70px;
+    float: left;
+    font-size: 15px
+}
+
+
+/* Sagarmatha.html */
+.name{
+    margin-left: 400px;
+    font-size: 15px;
+    font-family: 'Roboto Slab', serif;
+}
+.list h1{
+    font-family: 'Roboto Slab', serif;
+}
+.governor h1{
+    font-family: 'Roboto Slab', serif;
+}
+
+/*bijayanath.html*/
+.signatureof-bijayanath{
+    font-family: 'Roboto Slab', serif;  
+    margin-left: 330px
+}
+.bijayanathrs{
+    margin-left: 150px;
+    float: left;
+}
+.bijayanath-100{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.bijayanath-500{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+
+/*krishna.html*/
+.signatureof-krishna{
+    font-family: 'Roboto Slab', serif;  
+    margin-left: 330px
+}
+.krishnars{
+    margin-left: 150px;
+    float: left;
+}
+.krishna-5{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.krishna-10{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.krishna-20{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.krishna-50{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.krishna-100{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.krishna-1000{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+
+/*deependra-500.html*/
+.signatureof-deependra{
+    font-family: 'Roboto Slab', serif;  
+    margin-left: 330px
+}
+.deependrars{
+    margin-left: 150px;
+    float: left;
+}
+.deependra-500{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+
+
+/*yubaraj.html*/
+.signatureof-yubaraj{
+    font-family: 'Roboto Slab', serif;  
+    margin-left: 330px
+}
+.yubarajrs{
+    margin-left: 150px;
+    float: left;
+}
+.yubaraj-5{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.yubaraj-5rs{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.yubaraj-10{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.yubaraj-10rs{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.yubaraj-20{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.yubaraj-20rs{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.yubaraj-50{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.yubaraj-100{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+
+
+
+/*chiranjibi.html*/
+.signatureof-chiranjibi{
+    font-family: 'Roboto Slab', serif;  
+    margin-left: 330px
+}
+.chiranjibirs{
+    margin-left: 150px;
+    float: left;
+}
+.chiranjibi-5{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.chiranjibi-10{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.chiranjibi-20{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.chiranjibi-50{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.chiranjibi-100{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.chiranjibi-100rs{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.chiranjibi-500{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.chiranjibi-1000{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+
+
+
+
+/*governor-14.html*/
+.governor-fourteen{
+    margin-left: 200px;
+    float: left;
+}
+.aboutDeependra{
+    width: 600px;
+    margin-left: 70px;
+    float: left;
+    font-size: 15px
+}
+/*governor-15.html*/
+.governor-fifteen{
+    margin-left: 200px;
+    float: left;
+}
+.aboutYubaraj{
+    width: 600px;
+    margin-left: 70px;
+    float: left;
+    font-size: 15px
+}
+/*governor-16.html*/
+.governor-sixteen{
+    margin-left: 200px;
+    float: left;
+}
+.aboutChiranjibi{
+    width: 600px;
+    margin-left: 70px;
+    float: left;
+    font-size: 15px
+}
+/*governor-17.html*/
+.governor-seventeen{
+    margin-left: 200px;
+    float: left;
+}
+.aboutMaha{
+    width: 600px;
+    margin-left: 70px;
+    float: left;
+    font-size: 15px
 }
 
 /* ss */
