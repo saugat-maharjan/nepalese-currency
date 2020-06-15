@@ -62,14 +62,26 @@ body {
 
 /*tribhuwan-1.html*/
 .oneRupee-tribhuwan{
-    margin-left: 200px;
+    font-family: 'Roboto Slab', serif;  
+    margin-left: 330px
+}
+.narendra-1{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.narendra-1 p{
+    text-align: center;
+}
+.tribhuwan1rs{
+    margin-left: 150px;
     float: left;
 }
 .text{
     width: 600px;
-    margin-left: 70px;
+    margin-left: 20px;
     float: left;
-    font-size: 15px
+    font-size: 15px  
 }
 
 /*tribhuwan-5.html*/
@@ -1079,7 +1091,7 @@ body {
 }
 
 /*birendra-250.html*/
-.twohundredfiftyRupee-birendra{
+.twentyfiveRupee-birendra{
     font-family: 'Roboto Slab', serif;  
     margin-left: 330px
 }
@@ -1101,7 +1113,6 @@ body {
     float: left;
     font-size: 15px  
 }
-
 
 /*birendra-500.html*/
 .fivehundredRupee-birendra{
