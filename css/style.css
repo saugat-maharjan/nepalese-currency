@@ -2,9 +2,9 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap');
 
 
-body {
-    margin: 0px;
-    padding: 0px;
+html,body {
+    height: 100%;
+    margin: 0;
 }
 
 /* index.html */
@@ -24,6 +24,20 @@ a{
     text-decoration: none;
     outline: none;
 }
+.photoofkings{
+    min-height: 100%;
+    /*negative is same mesaurement as footer height */
+ margin-bottom: -120px;   
+}
+
+.photoofkings::after{
+    content: "";
+    display: block;
+}
+footer, .photoofkings::after{
+    height: 120px;
+}
+
 .footer{
     width: 100%;
     height: auto;
@@ -119,7 +133,7 @@ a{
     height: auto;
     margin: auto;
     background: #32CD32; 
-    padding: 1px;
+    padding: 5px;
 }
 .footer-bottom p{
     font-family: arial;
@@ -134,14 +148,9 @@ a{
 }
 .footer-bottom p a:hover{
     color: #272727;
-
-
-
-
-
-
+}
 /* papermoney.html*/
-.listOfKings h1{
+.listOfkings h1{
     font-family: 'Roboto Slab', serif;
 }
 
