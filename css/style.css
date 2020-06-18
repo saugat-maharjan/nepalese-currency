@@ -5,6 +5,7 @@
 html,body {
     height: 100%;
     margin: 0;
+    padding: 0;
 }
 
 /* index.html */
@@ -44,6 +45,7 @@ footer, .photoofkings::after{
     margin: auto;
     background: #3F51B5;
     padding: 20px 0px;
+    position: relative;
 }
 .social-media{
     width: 100%;
@@ -133,7 +135,8 @@ footer, .photoofkings::after{
     height: auto;
     margin: auto;
     background: #32CD32; 
-    padding: 5px;
+    padding: 0px;
+    position: absolute;
 }
 .footer-bottom p{
     font-family: arial;
@@ -153,11 +156,20 @@ footer, .photoofkings::after{
 .listOfkings h1{
     font-family: 'Roboto Slab', serif;
 }
-
-/* coins.html*/
-.listOfperiod h1{
-    font-family: 'Roboto Slab', serif;
+.listOfkings{
+    min-height: 100%;
+    /*negative is same mesaurement as footer height */
+ margin-bottom: -120px;   
 }
+
+.listOfkings::after{
+    content: "";
+    display: block;
+}
+footer, .listOfkings::after{
+    height: 120px;
+}
+
 
 /* kingTribhuwan.html */
 .name{
