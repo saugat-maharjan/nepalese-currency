@@ -30,7 +30,6 @@ a{
     /*negative is same mesaurement as footer height */
  margin-bottom: -120px;   
 }
-
 .photoofkings::after{
     content: "";
     display: block;
@@ -38,7 +37,6 @@ a{
 footer, .photoofkings::after{
     height: 120px;
 }
-
 .footer{
     width: 100%;
     height: auto;
@@ -156,18 +154,221 @@ footer, .photoofkings::after{
 .listOfkings h1{
     font-family: 'Roboto Slab', serif;
 }
-.listOfkings{
+.list h1{
+    font-family: 'Roboto Slab', serif;
+}
+.shah{
+    min-height: 100%;
+    /*negative is same mesaurement as footer height */
+ margin-bottom: -120px;   
+}
+.shah::after{
+    content: "";
+    display: block;
+}
+footer, .shah::after{
+    height: 120px;
+}
+
+/*about.html*/
+.information h1{
+    font-family: 'Roboto Slab', serif;
+}
+.information{
     min-height: 100%;
     /*negative is same mesaurement as footer height */
  margin-bottom: -120px;   
 }
 
-.listOfkings::after{
+.information::after{
     content: "";
     display: block;
 }
-footer, .listOfkings::after{
+footer, .information::after{
     height: 120px;
+}
+
+/*PrithviNarayan.html*/
+.king-one{
+    margin-left: 200px;
+    float: left;
+}
+.king-one p{
+    text-align: center;
+}
+.aboutPrithviNarayan{
+    width: 600px;
+    margin-left: 70px;
+    float: left;
+    font-size: 15px
+}
+/*PratabSingh.html*/
+.king-two{
+    margin-left: 200px;
+    float: left;
+}
+.king-two p{
+    text-align: center;
+}
+.aboutPratabSingh{
+    width: 600px;
+    margin-left: 70px;
+    float: left;
+    font-size: 15px
+}
+/*RanaBahadur.html*/
+.king-three{
+    margin-left: 200px;
+    float: left;
+}
+.king-three p{
+    text-align: center;
+}
+.aboutRanaBahadur{
+    width: 600px;
+    margin-left: 70px;
+    float: left;
+    font-size: 15px
+}
+/*GirvanShah.html*/
+.king-four{
+    margin-left: 200px;
+    float: left;
+}
+.king-four p{
+    text-align: center;
+}
+.aboutGirvanShah{
+    width: 600px;
+    margin-left: 70px;
+    float: left;
+    font-size: 15px
+}
+/*RajendraShah.html*/
+.king-five{
+    margin-left: 200px;
+    float: left;
+}
+.king-five p{
+    text-align: center;
+}
+.aboutRajendraShah{
+    width: 600px;
+    margin-left: 70px;
+    float: left;
+    font-size: 15px
+}
+/*SurendraShah.html*/
+.king-six{
+    margin-left: 200px;
+    float: left;
+}
+.king-six p{
+    text-align: center;
+}
+.aboutSurendraShah{
+    width: 600px;
+    margin-left: 70px;
+    float: left;
+    font-size: 15px
+}
+/*TrailokyaShah.html*/
+.prince{
+    margin-left: 200px;
+    float: left;
+}
+.prince p{
+    text-align: center;
+}
+.aboutTrailokyaShah{
+    width: 600px;
+    margin-left: 70px;
+    float: left;
+    font-size: 15px
+}
+/*PrithviShah.html*/
+.king-seven{
+    margin-left: 200px;
+    float: left;
+}
+.king-seven p{
+    text-align: center;
+}
+.aboutPrithviShah{
+    width: 600px;
+    margin-left: 70px;
+    float: left;
+    font-size: 15px
+}
+/*TribhuwanShah.html*/
+.king-eight{
+    margin-left: 200px;
+    float: left;
+}
+.king-eight p{
+    text-align: center;
+}
+.aboutTribhuwanShah{
+    width: 600px;
+    margin-left: 70px;
+    float: left;
+    font-size: 15px
+}
+/*MahendraShah.html*/
+.king-nine{
+    margin-left: 200px;
+    float: left;
+}
+.king-nine p{
+    text-align: center;
+}
+.aboutMahendraShah{
+    width: 600px;
+    margin-left: 70px;
+    float: left;
+    font-size: 15px
+}
+/*BirendraShah.html*/
+.king-ten{
+    margin-left: 200px;
+    float: left;
+}
+.king-ten p{
+    text-align: center;
+}
+.aboutBirendraShah{
+    width: 600px;
+    margin-left: 70px;
+    float: left;
+    font-size: 15px
+}
+/*DipendraShah.html*/
+.king-eleven{
+    margin-left: 200px;
+    float: left;
+}
+.king-eleven p{
+    text-align: center;
+}
+.aboutDipendraShah{
+    width: 600px;
+    margin-left: 70px;
+    float: left;
+    font-size: 15px
+}
+/*GyanendraShah.html*/
+.king-twelve{
+    margin-left: 200px;
+    float: left;
+}
+.king-twelve p{
+    text-align: center;
+}
+.aboutGyanendraShah{
+    width: 600px;
+    margin-left: 70px;
+    float: left;
+    font-size: 15px
 }
 
 
@@ -182,6 +383,18 @@ footer, .listOfkings::after{
 }
 .governor h1{
     font-family: 'Roboto Slab', serif;
+}
+.tribhuwan{
+    min-height: 100%;
+    /*negative is same mesaurement as footer height */
+ margin-bottom: -120px;   
+}
+.tribhuwan::after{
+    content: "";
+    display: block;
+}
+footer, .tribhuwan::after{
+    height: 120px;
 }
 
 /*tribhuwan-1.html*/
@@ -1934,6 +2147,8 @@ footer, .listOfkings::after{
     float: left;
     font-size: 15px
 }
+
+
 
 /* ss */
 
