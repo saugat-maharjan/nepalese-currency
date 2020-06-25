@@ -45,6 +45,15 @@ footer, .photoofkings::after{
     padding: 20px 0px;
     position: relative;
 }
+.fa-facebook{
+    color: #4267B2;
+}
+.fa-instagram{
+    color: #e84393;
+}
+.fa-youtube{
+    color: #e84118;
+}
 .social-media{
     width: 100%;
     height: auto;
@@ -64,7 +73,6 @@ footer, .photoofkings::after{
     background: whitesmoke;   
 }    
 .social-media ul li a{
-    color: #272727;
     font-size: 25px;
     display: block;
 }
@@ -72,7 +80,7 @@ footer, .photoofkings::after{
     line-height: 50px;
 }
 .social-media ul li:hover{
-    background: #f00;
+    background: #fff;;
 }
 .social-media ul li:hover a{
     color: #fff;
