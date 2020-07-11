@@ -1232,20 +1232,20 @@ footer, .tribhuwan::after{
 .kalyan-20 p{
     text-align: center;
 }
-.ganesh-20{
-    margin-left: 30px;
-    font-size: 20px;
-    float: left;  
-}
-.ganesh-20 p{
-    text-align: center;
-}
 .ganeshw-20{
     margin-left: 30px;
     font-size: 20px;
     float: left;  
 }
 .ganeshw-20 p{
+    text-align: center;
+}
+.ganesh-20{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.ganesh-20 p{
     text-align: center;
 }
 .hari-20{
@@ -1472,6 +1472,14 @@ footer, .tribhuwan::after{
 .kul-500 p{
     text-align: center;
 }
+.kalyan-500cap{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.kalyan-500cap p{
+    text-align: center;
+}
 .kalyan-500{
     margin-left: 30px;
     font-size: 20px;
@@ -1534,6 +1542,14 @@ footer, .tribhuwan::after{
     float: left;  
 }
 .kul-1000 p{
+    text-align: center;
+}
+.kalyan-1000cap{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.kalyan-1000cap p{
     text-align: center;
 }
 .kalyan-1000{
@@ -1945,6 +1961,11 @@ footer, .tribhuwan::after{
     float: left;
 }
 .bijayanath-500{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.bijayanath-1000{
     margin-left: 30px;
     font-size: 20px;
     float: left;
