@@ -25,144 +25,27 @@ a{
     text-decoration: none;
     outline: none;
 }
-.photoofkings{
+
+
+/* papermoney.html*/
+.list h1{
+    font-family: 'Roboto Slab', serif;
+}
+.list{
     min-height: 100%;
     /*negative is same mesaurement as footer height */
  margin-bottom: -120px;   
 }
-.photoofkings::after{
+.list::after{
     content: "";
     display: block;
 }
-footer, .photoofkings::after{
+footer, .list::after{
     height: 120px;
 }
-.footer{
-    width: 100%;
-    height: auto;
-    margin: auto;
-    background: #3F51B5;
-    padding: 20px 0px;
-    position: relative;
-}
-.fa-facebook{
-    color: #4267B2;
-}
-.fa-instagram{
-    color: #e84393;
-}
-.fa-youtube{
-    color: #e84118;
-}
-.social-media{
-    width: 100%;
-    height: auto;
-    margin: auto;
-}
-.social-media ul{
-      margin: 0px;
-      padding: 0px;
-      text-align: center;
-}
-.social-media ul li{
-    display: inline-block;
-    width: 50px;
-    height: 50px;
-    margin: 0px 10px;
-    border-radius: 100%;
-    background: whitesmoke;   
-}    
-.social-media ul li a{
-    font-size: 25px;
-    display: block;
-}
-.social-media ul li a i{
-    line-height: 50px;
-}
-.social-media ul li:hover{
-    background: #fff;;
-}
-.social-media ul li:hover a{
-    color: #fff;
-}
-.footer-menu{
-    width: 100%;
-    height: auto;
-    margin: auto;
-    margin-top: 25px;
-}
-.footer-menu ul{
-    margin: 0px;
-    padding: 0px;
-    text-align: center;
-}
-.footer-menu ul li{
-    display: inline-block;
-    margin: 0px 15px;
-}
-.footer-menu ul li a{
-    font-family: arial;
-    font-size: 15px;
-    font-weight: 600;
-    color: #ffff;
-    text-transform: uppercase;
-}
-.footer-menu ul li a:hover{
-    color:#272727; 
-}
-.footer-menu2{
-    width: 100%;
-    height: auto;
-    margin: auto;
-    margin-top: 15px;
-}
-.footer-menu2 ul{
-    margin: 0px;
-    padding: 0px;
-    text-align: center;
-}
-.footer-menu2 ul li{
-    display: inline-block;
-    margin: 0px 15px;
-}
-.footer-menu2 ul li a{
-    font-family: arial;
-    font-size: 14px;
-    font-weight: 600;
-    color: #ffff;
-    letter-spacing: 1px;
-    text-transform: uppercase;
-}
-.footer-menu2 ul li a:hover{
-    color: #272727;  
-}
-.footer-bottom{
-    width: 100%;
-    height: auto;
-    margin: auto;
-    background: #32CD32; 
-    padding: 0px;
-    position: absolute;
-}
-.footer-bottom p{
-    font-family: arial;
-    font-size: 14px;
-    text-align: center;
-    color: #fff;
-    font-weight: 600;
-    letter-spacing: 1px;
-}
-.footer-bottom p a{
-    color: #fff;
-}
-.footer-bottom p a:hover{
-    color: #272727;
-}
-/* papermoney.html*/
-.listOfkings h1{
-    font-family: 'Roboto Slab', serif;
-}
-.list h1{
+
+/* shah.html*/
+.listOfshahkings h1{
     font-family: 'Roboto Slab', serif;
 }
 .shah{
@@ -188,6 +71,11 @@ footer, .shah::after{
  margin-bottom: -120px;   
 }
 
+/* governors.html */
+.list h1{
+    font-family: 'Roboto Slab', serif;
+}
+
 .information::after{
     content: "";
     display: block;
@@ -198,187 +86,238 @@ footer, .information::after{
 
 /*PrithviNarayan.html*/
 .king-one{
-    margin-left: 200px;
+    margin-left: 600px;
     float: left;
+    margin-top: 50px;
 }
 .king-one p{
     text-align: center;
 }
 .aboutPrithviNarayan{
-    width: 600px;
-    margin-left: 70px;
+    width: 1000px;
+    margin-left: 250px;
     float: left;
     font-size: 15px
 }
+.aboutPrithviNarayan h3{
+    text-align: center;
+}
 /*PratabSingh.html*/
 .king-two{
-    margin-left: 200px;
+    margin-left: 600px;
     float: left;
+    margin-top: 50px;
 }
 .king-two p{
     text-align: center;
 }
 .aboutPratabSingh{
-    width: 600px;
-    margin-left: 70px;
+    width: 1000px;
+    margin-left: 250px;
     float: left;
     font-size: 15px
 }
+.aboutPratabSingh h3{
+    text-align: center;
+}
 /*RanaBahadur.html*/
 .king-three{
-    margin-left: 200px;
+    margin-left: 600px;
     float: left;
+    margin-top: 50px;
 }
 .king-three p{
     text-align: center;
 }
 .aboutRanaBahadur{
-    width: 600px;
-    margin-left: 70px;
+    width: 1000px;
+    margin-left: 250px;
     float: left;
     font-size: 15px
 }
+.aboutRanaBahadur h3{
+    text-align: center;
+}
 /*GirvanShah.html*/
 .king-four{
-    margin-left: 200px;
+    margin-left: 600px;
     float: left;
+    margin-top: 50px;
 }
 .king-four p{
     text-align: center;
 }
 .aboutGirvanShah{
-    width: 600px;
-    margin-left: 70px;
+    width: 1000px;
+    margin-left: 250px;
     float: left;
     font-size: 15px
 }
+.aboutGirvanShah h3{
+    text-align: center;
+}
 /*RajendraShah.html*/
 .king-five{
-    margin-left: 200px;
+    margin-left: 600px;
     float: left;
+    margin-top: 50px;
 }
 .king-five p{
     text-align: center;
 }
 .aboutRajendraShah{
-    width: 600px;
-    margin-left: 70px;
+    width: 1000px;
+    margin-left: 250px;
     float: left;
     font-size: 15px
 }
+.aboutRajendraShah h3{
+    text-align: center;
+}
 /*SurendraShah.html*/
 .king-six{
-    margin-left: 200px;
+    margin-left: 600px;
     float: left;
+    margin-top: 50px;
 }
 .king-six p{
     text-align: center;
 }
 .aboutSurendraShah{
-    width: 600px;
-    margin-left: 70px;
+    width: 1000px;
+    margin-left: 250px;
     float: left;
     font-size: 15px
 }
+.aboutSurendraShah h3{
+    text-align: center;
+}
 /*TrailokyaShah.html*/
 .prince{
-    margin-left: 200px;
+    margin-left: 600px;
     float: left;
+    margin-top: 50px;
 }
 .prince p{
     text-align: center;
 }
 .aboutTrailokyaShah{
-    width: 600px;
-    margin-left: 70px;
+    width: 1000px;
+    margin-left: 250px;
     float: left;
     font-size: 15px
 }
+.aboutTrailokyaShah h3{
+    text-align: center;
+}
 /*PrithviShah.html*/
 .king-seven{
-    margin-left: 200px;
+    margin-left: 600px;
     float: left;
+    margin-top: 50px;
 }
 .king-seven p{
     text-align: center;
 }
 .aboutPrithviShah{
-    width: 600px;
-    margin-left: 70px;
+    width: 1000px;
+    margin-left: 250px;
     float: left;
     font-size: 15px
 }
+.aboutPrithviShah h3{
+    text-align: center;
+}
 /*TribhuwanShah.html*/
 .king-eight{
-    margin-left: 200px;
+    margin-left: 600px;
     float: left;
+    margin-top: 50px;
 }
 .king-eight p{
     text-align: center;
 }
 .aboutTribhuwanShah{
-    width: 600px;
-    margin-left: 70px;
+    width: 1000px;
+    margin-left: 250px;
     float: left;
     font-size: 15px
 }
+.aboutTribhuwanShah h3{
+    text-align: center;
+}
 /*MahendraShah.html*/
 .king-nine{
-    margin-left: 200px;
+    margin-left: 600px;
     float: left;
+    margin-top: 50px;
 }
 .king-nine p{
     text-align: center;
 }
 .aboutMahendraShah{
-    width: 600px;
-    margin-left: 70px;
+    width: 1000px;
+    margin-left: 250px;
     float: left;
     font-size: 15px
 }
+.aboutMahendraShah h3{
+    text-align: center;
+}
 /*BirendraShah.html*/
 .king-ten{
-    margin-left: 200px;
+    margin-left: 600px;
     float: left;
+    margin-top: 50px;
 }
 .king-ten p{
     text-align: center;
 }
 .aboutBirendraShah{
-    width: 600px;
-    margin-left: 70px;
+    width: 1000px;
+    margin-left: 250px;
     float: left;
     font-size: 15px
 }
+.aboutBirendraShah h3{
+    text-align: center;
+}
 /*DipendraShah.html*/
 .king-eleven{
-    margin-left: 200px;
+    margin-left: 600px;
     float: left;
+    margin-top: 50px;
 }
 .king-eleven p{
     text-align: center;
 }
 .aboutDipendraShah{
-    width: 600px;
-    margin-left: 70px;
+    width: 1000px;
+    margin-left: 250px;
     float: left;
     font-size: 15px
 }
+.aboutDipendraShah h3{
+    text-align: center;
+}
 /*GyanendraShah.html*/
 .king-twelve{
-    margin-left: 200px;
+    margin-left: 600px;
     float: left;
+    margin-top: 50px;
 }
 .king-twelve p{
     text-align: center;
 }
 .aboutGyanendraShah{
-    width: 600px;
-    margin-left: 70px;
+    width: 1000px;
+    margin-left: 250px;
     float: left;
     font-size: 15px
 }
-
+.aboutGyanendraShah h3{
+    text-align: center;
+}
 
 /* kingTribhuwan.html */
 .name{
@@ -387,9 +326,6 @@ footer, .information::after{
     font-family: 'Roboto Slab', serif;
 }
 .list h1{
-    font-family: 'Roboto Slab', serif;
-}
-.governor h1{
     font-family: 'Roboto Slab', serif;
 }
 .tribhuwan{
@@ -423,7 +359,7 @@ footer, .tribhuwan::after{
     float: left;
 }
 .text{
-    width: 600px;
+    width: 700px;
     margin-left: 20px;
     float: left;
     font-size: 15px  
@@ -560,36 +496,48 @@ footer, .tribhuwan::after{
 
 /*khajanchee-1.html*/
 .khajanchee-one{
-    margin-left: 200px;
+    margin-left: 600px;
     float: left;
+    margin-top: 50px;
 }
 .aboutJanak{
-    width: 600px;
-    margin-left: 70px;
+    width: 1000px;
+    margin-left: 250px;
     float: left;
     font-size: 15px
+}
+.aboutJanak h3{
+    text-align: center;
 }
 /*khajanchee-2.html*/
 .khajanchee-two{
-    margin-left: 200px;
+    margin-left: 600px;
     float: left;
+    margin-top: 50px;
 }
 .aboutBharat{
-    width: 600px;
-    margin-left: 70px;
+    width: 1000px;
+    margin-left: 250px;
     float: left;
     font-size: 15px
+}
+.aboutBharat h3{
+    text-align: center;
 }
 /*khajanchee-3.html*/
 .khajanchee-three{
-    margin-left: 200px;
+    margin-left: 600px;
     float: left;
+    margin-top: 50px;
 }
 .aboutNarendra{
-    width: 600px;
-    margin-left: 70px;
+    width: 1000px;
+    margin-left: 250px;
     float: left;
     font-size: 15px
+}
+.aboutNarendra h3{
+    text-align: center;
 }
 
 /*kingMahendra.html*/
@@ -599,9 +547,6 @@ footer, .tribhuwan::after{
     font-family: 'Roboto Slab', serif;
 }
 .list h1{
-    font-family: 'Roboto Slab', serif;
-}
-.governor h1{
     font-family: 'Roboto Slab', serif;
 }
 
@@ -640,7 +585,7 @@ footer, .tribhuwan::after{
     float: left;
 }
 .info1{
-    width: 600px;
+    width: 700px;
     margin-left: 20px;
     float: left;
     font-size: 15px  
@@ -888,58 +833,78 @@ footer, .tribhuwan::after{
 
 /*governor-1.html*/
 .governor-one{
-    margin-left: 200px;
+    margin-left: 600px;
     float: left;
+    margin-top: 50px;
 }
 .aboutHimalaya{
-    width: 600px;
-    margin-left: 70px;
+    width: 1000px;
+    margin-left: 250px;
     float: left;
     font-size: 15px
+}
+.aboutHimalaya h3{
+    text-align: center;
 }
 /*governor-2.html*/
 .governor-two{
-    margin-left: 200px;
+    margin-left: 600px;
     float: left;
+    margin-top: 50px;
 }
 .aboutLaxminath{
-    width: 600px;
-    margin-left: 70px;
+    width: 1000px;
+    margin-left: 250px;
     float: left;
     font-size: 15px
+}
+.aboutLaxminath h3{
+    text-align: center;
 }
 /*governor-3.html*/
 .governor-three{
-    margin-left: 200px;
+    margin-left: 600px;
     float: left;
+    margin-top: 50px;
 }
 .aboutPradyumna{
-    width: 600px;
-    margin-left: 70px;
+    width: 1000px;
+    margin-left: 250px;
     float: left;
     font-size: 15px
+}
+.aboutPradyumna h3{
+    text-align: center;
 }
 /*governor-4.html*/
 .governor-four{
-    margin-left: 200px;
+    margin-left: 600px;
     float: left;
+    margin-top: 50px;
 }
 .aboutBhekh{
-    width: 600px;
-    margin-left: 70px;
+    width: 1000px;
+    margin-left: 250px;
     float: left;
     font-size: 15px
+}
+.aboutBhekh h3{
+    text-align: center;
 }
 /*governor-5.html*/
 .governor-five{
-    margin-left: 200px;
+    margin-left: 600px;
     float: left;
+    margin-top: 50px;
 }
 .aboutYadav{
-    width: 600px;
-    margin-left: 70px;
+    width: 1000px;
+    margin-left: 250px;
     float: left;
     font-size: 15px
+}
+.aboutYadav h3{
+    text-align: center;
 }
 
 /*kingBirendra.html*/
@@ -949,9 +914,6 @@ footer, .tribhuwan::after{
     font-family: 'Roboto Slab', serif;
 }
 .list h1{
-    font-family: 'Roboto Slab', serif;
-}
-.governor h1{
     font-family: 'Roboto Slab', serif;
 }
 
@@ -989,15 +951,7 @@ footer, .tribhuwan::after{
     font-size: 20px;
     float: left;  
 }
-.harishankhar-1 p{
-    text-align: center;
-}
-.hari-1{
-    margin-left: 30px;
-    font-size: 20px;
-    float: left;  
-}
-.hari-1 p{
+.harishankhar-1 p {
     text-align: center;
 }
 .satendra-1{
@@ -1607,69 +1561,93 @@ footer, .tribhuwan::after{
 
 /*governor-6.html*/
 .governor-six{
-    margin-left: 200px;
+    margin-left: 600px;
     float: left;
+    margin-top: 50px;
 }
 .aboutKul{
-    width: 600px;
-    margin-left: 70px;
+    width: 1000px;
+    margin-left: 250px;
     float: left;
     font-size: 15px
+}
+.aboutKul h3{
+    text-align: center;
 }
 /*governor-7.html*/
 .governor-seven{
-    margin-left: 200px;
+    margin-left: 600px;
     float: left;
+    margin-top: 50px;
 }
 .aboutKalyan{
-    width: 600px;
-    margin-left: 70px;
+    width: 1000px;
+    margin-left: 250px;
     float: left;
     font-size: 15px
+}
+.aboutKalyan h3{
+    text-align: center;
 }
 /*governor-8.html*/
 .governor-eight{
-    margin-left: 200px;
+    margin-left: 600px;
     float: left;
+    margin-top: 50px;
 }
 .aboutGanesh{
-    width: 600px;
-    margin-left: 70px;
+    width: 1000px;
+    margin-left: 250px;
     float: left;
     font-size: 15px
+}
+.aboutGanesh h3{
+    text-align: center;
 }
 /*governor-9.html*/
 .governor-nine{
-    margin-left: 200px;
+    margin-left: 600px;
     float: left;
+    margin-top: 50px;
 }
 .aboutHari{
-    width: 600px;
-    margin-left: 70px;
+    width: 1000px;
+    margin-left: 250px;
     float: left;
     font-size: 15px
+}
+.aboutHari h3{
+    text-align: center;
 }
 /*governor-10.html*/
 .governor-ten{
-    margin-left: 200px;
+    margin-left: 600px;
     float: left;
+    margin-top: 50px;
 }
 .aboutSatendra{
-    width: 600px;
-    margin-left: 70px;
+    width: 1000px;
+    margin-left: 250px;
     float: left;
     font-size: 15px
+}
+.aboutSatendra h3{
+    text-align: center;
 }
 /*governor-11.html*/
 .governor-eleven{
-    margin-left: 200px;
+    margin-left: 600px;
     float: left;
+    margin-top: 50px;
 }
-.aboutDeependra{
-    width: 600px;
-    margin-left: 70px;
+.aboutDipendra{
+    width: 1000px;
+    margin-left: 250px;
     float: left;
     font-size: 15px
+}
+.aboutDipendra h3{
+    text-align: center;
 }
 
 /*kingGyanendra.html*/
@@ -1679,9 +1657,6 @@ footer, .tribhuwan::after{
     font-family: 'Roboto Slab', serif;
 }
 .list h1{
-    font-family: 'Roboto Slab', serif;
-}
-.governor h1{
     font-family: 'Roboto Slab', serif;
 }
 
@@ -1712,6 +1687,14 @@ footer, .tribhuwan::after{
     float: left;  
 }
 .bijaya-5 p{
+    text-align: center;
+}
+.bijaya-5a{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;  
+}
+.bijaya-5a p{
     text-align: center;
 }
 .gyanendra5rs{
@@ -1866,6 +1849,14 @@ footer, .tribhuwan::after{
     font-family: 'Roboto Slab', serif;  
     margin-left: 330px
 }
+.tilak-500a{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.tilak-500a p{
+    text-align: center;
+}
 .tilak-500{
     margin-left: 30px;
     font-size: 20px;
@@ -1890,6 +1881,14 @@ footer, .tribhuwan::after{
     font-family: 'Roboto Slab', serif;  
     margin-left: 330px
 }
+.tilak-1000a{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.tilak-1000a p{
+    text-align: center;
+}
 .tilak-1000{
     margin-left: 30px;
     font-size: 20px;
@@ -1911,27 +1910,34 @@ footer, .tribhuwan::after{
 
 /*governor-12.html*/
 .governor-twelve{
-    margin-left: 200px;
+    margin-left: 600px;
     float: left;
+    margin-top: 50px;
 }
 .aboutTilak{
-    width: 600px;
-    margin-left: 70px;
+    width: 1000px;
+    margin-left: 250px;
     float: left;
     font-size: 15px
+}
+.aboutTilak h3{
+    text-align: center;
 }
 /*governor-13.html*/
 .governor-thirteen{
-    margin-left: 200px;
+    margin-left: 600px;
     float: left;
+    margin-top: 50px;
 }
 .aboutBijayanath{
-    width: 600px;
-    margin-left: 70px;
+    width: 1000px;
+    margin-left: 250px;
     float: left;
     font-size: 15px
 }
-
+.aboutBijayanath h3{
+    text-align: center;
+}
 
 /* Sagarmatha.html */
 .name{
@@ -1969,6 +1975,22 @@ footer, .tribhuwan::after{
     margin-left: 30px;
     font-size: 20px;
     float: left;
+}
+
+/* acting-governor.html */
+.acting-governor{
+    margin-left: 600px;
+    float: left;
+    margin-top: 50px;
+}
+.aboutKrishna{
+    width: 1000px;
+    margin-left: 250px;
+    float: left;
+    font-size: 15px
+}
+.aboutKrishna h3{
+    text-align: center;
 }
 
 /*krishna.html*/
@@ -2011,7 +2033,23 @@ footer, .tribhuwan::after{
     float: left;
 }
 
-/*deependra-500.html*/
+/* governor-fourteen */
+.governor-fourteen{
+    margin-left: 600px;
+    float: left;
+    margin-top: 50px;
+}
+.aboutDeependra{
+    width: 1000px;
+    margin-left: 250px;
+    float: left;
+    font-size: 15px
+}
+.aboutDeependra h3{
+    text-align: center;
+}
+
+/*deependra.html*/
 .signatureof-deependra{
     font-family: 'Roboto Slab', serif;  
     margin-left: 330px
@@ -2020,12 +2058,29 @@ footer, .tribhuwan::after{
     margin-left: 150px;
     float: left;
 }
-.deependra-500{
-    margin-left: 30px;
-    font-size: 20px;
+.dip500{
+    width: 600px;
+    margin-left: 20px;
     float: left;
+    font-size: 15px  
 }
 
+
+/* governor-fifteen */
+.governor-fifteen{
+    margin-left: 600px;
+    float: left;
+    margin-top: 50px;
+}
+.aboutYubaraj{
+    width: 1000px;
+    margin-left: 250px;
+    float: left;
+    font-size: 15px
+}
+.aboutYubaraj h3{
+    text-align: center;
+}
 
 /*yubaraj.html*/
 .signatureof-yubaraj{
@@ -2071,13 +2126,52 @@ footer, .tribhuwan::after{
     font-size: 20px;
     float: left;
 }
+.yubaraj-50rs{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
 .yubaraj-100{
     margin-left: 30px;
     font-size: 20px;
     float: left;
 }
+.yubaraj-500{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.yubaraj-500rs{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.yubaraj-1000{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.yubaraj-1000rs{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
 
-
+/* governor-sixteen */
+.governor-sixteen{
+    margin-left: 600px;
+    float: left;
+    margin-top: 50px;
+}
+.aboutChiranjibi{
+    width: 1000px;
+    margin-left: 250px;
+    float: left;
+    font-size: 15px
+}
+.aboutChiranjibi h3{
+    text-align: center;
+}
 
 /*chiranjibi.html*/
 .signatureof-chiranjibi{
@@ -2103,7 +2197,17 @@ footer, .tribhuwan::after{
     font-size: 20px;
     float: left;
 }
+.chiranjibi-20rs{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
 .chiranjibi-50{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.chiranjibi-50rs{
     margin-left: 30px;
     font-size: 20px;
     float: left;
@@ -2128,55 +2232,53 @@ footer, .tribhuwan::after{
     font-size: 20px;
     float: left;
 }
+.chiranjibi-1000rs{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
 
 
 
 
-/*governor-14.html*/
-.governor-fourteen{
-    margin-left: 200px;
-    float: left;
-}
-.aboutDeependra{
-    width: 600px;
-    margin-left: 70px;
-    float: left;
-    font-size: 15px
-}
-/*governor-15.html*/
-.governor-fifteen{
-    margin-left: 200px;
-    float: left;
-}
-.aboutYubaraj{
-    width: 600px;
-    margin-left: 70px;
-    float: left;
-    font-size: 15px
-}
-/*governor-16.html*/
-.governor-sixteen{
-    margin-left: 200px;
-    float: left;
-}
-.aboutChiranjibi{
-    width: 600px;
-    margin-left: 70px;
-    float: left;
-    font-size: 15px
-}
-/*governor-17.html*/
+
+
+/* governor-17.html */
+
 .governor-seventeen{
-    margin-left: 200px;
+    margin-left: 600px;
     float: left;
+    margin-top: 50px;
 }
 .aboutMaha{
-    width: 600px;
-    margin-left: 70px;
+    width: 1000px;
+    margin-left: 250px;
     float: left;
     font-size: 15px
 }
+.aboutMaha h3{
+    text-align: center;
+}
 
+/* maha.html */
+.signatureof-mahaprasad{
+    font-family: 'Roboto Slab', serif;  
+    margin-left: 330px
+}
+.mahars{
+    margin-left: 150px;
+    float: left;
+}
+.maha-5{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
+.maha-10{
+    margin-left: 30px;
+    font-size: 20px;
+    float: left;
+}
 
 
 /* ss */
